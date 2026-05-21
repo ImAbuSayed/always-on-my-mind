@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Always on My Mind
+
+This log tracks the cryptographic history and versioning for the song **Always on My Mind** (always-on-my-mind).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-22T03:32:03.055343 | `v1` | `cced0f7b08edc0fd626fa4f13864f9128d4121cf940d837319036bdbf7c56bab` | `cd17d3bc9d89f95cf35dc7d5ac6f06635c6725ff403cdae483264a6b87938a97` | `2026-05-22_always-on-my-mind-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
