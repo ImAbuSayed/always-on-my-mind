@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit c19448f20aa40bf937f60981bef9080e02158e7a
+> I've been driving all night just to taste your lips
+> Got my hands on the wheel but I want your hips
+> You're a sweet temptation in the neon light
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
